@@ -45,3 +45,29 @@ header{
     display: block;
     font-weight: 600;
 }
+
+.menu .navbar ul li a:hover{
+    color: #ce967b;
+}
+
+#menu{
+    display: none;
+}
+
+.menu-icono{
+    width: 25px;
+}
+
+.menu label{
+    cursor: pointer;
+    display: none;
+}
+
+.header-content{
+    font-size: 30px;
+    line-height: 80px;
+    color: #f9fafc;
+    text-transform: uppercase;
+    margin-bottom: -50px;
+    text-align: center;
+}
