@@ -71,3 +71,22 @@ header{
     margin-bottom: -50px;
     text-align: center;
 }
+
+.header-content p{
+    font-size: 16px;
+    color: #c5c5c5;
+    padding: 0 250px;
+    margin-bottom: 25px;
+}
+
+.btn-1{
+    display: inline-block;
+    padding: 11px 35px;
+    background-color: #ce967b;
+    color: #f9fafc;
+    text-transform: uppercase;
+}
+
+.btn-1:hover{
+    background-color: bisque;
+}
