@@ -1,52 +1,49 @@
-.sapageras{
+.Sampageras {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),
+            rgba(0, 0, 0, 0.7)),
+        url(img/santo.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     padding: 100px 0;
-    background-color: #e1e2e6;
-    position: relative;
 }
 
-.sapageras-content{
+.Sampageras-content {
     text-align: center;
 }
 
-.sapageras-content h2{
+.Sampageras-content h2 {
     font-size: 55px;
     line-height: 70px;
-    color: #323337;
+    color: #f9fafc;
     text-transform: uppercase;
-    padding: 0 250px;
-    margin-bottom: 15px;
+    margin-bottom: 50px;
 }
 
-.txt-p{
+.Sampageras-content p {
     font-size: 16px;
-    color: #414247;
-    padding: 0 250px;
-    margin-bottom: 35px;
+    color: #c5c5c5;
+    margin-bottom: 50px;
+    padding: 0 100px;
 }
 
-.sapageras-group{
+.services-group {
     display: flex;
     justify-content: space-between;
     margin-bottom: 50px;
 }
 
-.sapageras-1{ 
-    padding: 0 25px;
+.services-1 {
+    padding: 0 100px;
 }
 
-.sapageras-1 img{
-    width: 200px;
-    border-radius: 15px;
-}
-
-.sapageras-img{
-    position: absolute;
-    top: 0;
-    right: 0;
-}
-
-.sapageras-1 h3{
-    color: #323337;
-    font-size: 20px;
+.services-1 img {
+    width: 25px;
     margin-bottom: 15px;
+}
+
+.services-1 h3 {
+    color: #eaccb3;
+    font-size: 18px;
 }
